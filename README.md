@@ -1,3 +1,5 @@
+<p align="center"><img src="src/main/resources/icon.png" width="128"></p>
+
 # no place delay
 
 client side fabric mod for minecraft 1.21.11. it cuts the delay between placing blocks and using items so you can place faster.
